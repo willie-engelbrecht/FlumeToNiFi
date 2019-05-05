@@ -1,5 +1,5 @@
 # FlumeToNiFi
-Convert your Flume Agent configuratio to NiFi flows using a simple converter script. 
+Convert your Flume Agent configuration to NiFi flows using a simple converter script. 
 
 You need to pass 2 parameters, one for the location of your NiFi instance, and a second parameter for the location of your flume agent's config file you would like to convert. 
 
